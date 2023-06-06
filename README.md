@@ -38,3 +38,4 @@ This repository solution to the problem of taking attendance in Zoom. It is a si
     ```bash
     > python3 main.py
     ```
+
