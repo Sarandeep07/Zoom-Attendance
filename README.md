@@ -6,7 +6,7 @@ This repository solution to the problem of taking attendance in Zoom. It is a si
 
 1. Clone this repository
 ```bash
-> git clone https://github.com/Sarandeep07/Zoom-Attendance.git
+> git clone [https://github.com/Sarandeep07/Zoom-Attendance.git](https://github.com/Sarandeep07/Zoom-Attendance.git)
 ```
 
 2. Install the requirements
